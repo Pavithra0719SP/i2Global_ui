@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "key": "about",
+    "label": "About",
+    "active": false,
+    "path": "/portal/about"
+  },
+  {
+    "id": 2,
+    "key": "notes",
+    "label": "Notes",
+    "active": false,
+    "path": "/portal/notes"
+  },
+  {
+    "id": 3,
+    "key": "accounts",
+    "label": "Accounts",
+    "active": false,
+    "path": "/portal/accounts",
+    "name": "Your Accounts"
+  },
+  {
+    "id": 4,
+    "key": "login",
+    "label": "Login",
+    "active": true,
+    "name": "Login Page"
+  }
+]
